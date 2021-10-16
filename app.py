@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 11 11:18:10 2021
 
-@author: SACHANs
-"""
 
 
   
